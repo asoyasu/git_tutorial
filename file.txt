@@ -2,5 +2,3 @@ Hello
 World
 
 masterブランチで新機能追加
-
-new-featureブランチにコミット
